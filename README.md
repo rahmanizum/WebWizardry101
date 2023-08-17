@@ -7,3 +7,5 @@ Thank you
 
 
  added 3 unsure changes 
+
+done my changes and finalize
